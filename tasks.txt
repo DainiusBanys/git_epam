@@ -1,1 +1,2 @@
 1 task - have a coffee
+2 task - take EPAM lesson on git
